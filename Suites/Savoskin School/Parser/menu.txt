@@ -1,0 +1,121 @@
+<a class="dropdown__content-link" href="(% url |svedeniya-ob-obrazovatelnoj-organizacii| %)">Сведения об образовательной организации</a>
+<a class="dropdown__content-link" href="(% url |osnovnye-svedeniya| %)">Основные сведения</a>
+<a class="dropdown__content-link" href="(% url |struktura-i-organy-upravleniya-oo| %)">Структура и органы управления ОО</a>
+<a class="dropdown__content-link" href="(% url |dokumenty| %)">Документы</a>
+<a class="dropdown__content-link" href="(% url |obrazovanie| %)">Образование</a>
+<a class="dropdown__content-link" href="(% url |metodicheskaya-rabota| %)">Методическая работа</a>
+<a class="dropdown__content-link" href="(% url |vpr| %)">ВПР</a>
+<a class="dropdown__content-link" href="(% url |inklyuzivnoe-obrazovanie| %)">Инклюзивное образование</a>
+<a class="dropdown__content-link" href="(% url |rukovodstvo-i-pedagogicheskij-sostav| %)">Руководство и педагогический состав</a>
+<a class="dropdown__content-link" href="(% url |organizaciya-pitaniya-v-obrazovatelnoj-organizacii| %)">Организация питания в образовательной организации</a>
+<a class="dropdown__content-link" href="(% url |obrazovatelnye-standarty| %)">Образовательные стандарты</a>
+<a class="dropdown__content-link" href="(% url |materialno-tekhnicheskoe-obespechenie| %)">Материально-техническое обеспечение</a>
+<a class="dropdown__content-link" href="(% url |finansovo-hozyajstvennaya-deyatelnost| %)">Финансово-хозяйственная деятельность</a>
+<a class="dropdown__content-link" href="(% url |platnye-obrazovatelnye-uslugi| %)">Платные образовательные услуги</a>
+<a class="dropdown__content-link" href="(% url |stipendii-i-inye-vidy-materialnoj-podderzhki| %)">Стипендии и иные виды материальной поддержки</a>
+<a class="dropdown__content-link" href="(% url |vakantnye-mesta-dlya-priema| %)">Вакантные места для приема</a>
+<a class="dropdown__content-link" href="(% url |priyom-v-1-klass| %)">Приём в 1 класс</a>
+<a class="dropdown__content-link" href="(% url |o-celevom-obuchenii| %)">О целевом обучении</a>
+<a class="dropdown__content-link" href="(% url |dostupnaya-sreda| %)">Доступная среда</a>
+<a class="dropdown__content-link" href="(% url |mezhdunarodnoe-sotrudnichestvo| %)">Международное сотрудничество</a>
+<a class="dropdown__content-link" href="(% url |goryachee-pitanie| %)">ГОРЯЧЕЕ ПИТАНИЕ</a>
+<a class="dropdown__content-link" href="(% url |besplatnoe-goryachee-pitanie-1-4-klassov| %)">Бесплатное горячее питание 1-4 классов</a>
+<a class="dropdown__content-link" href="(% url |svedeniya-ob-organizatore-besplatnogo-goryachego-pitaniya-1-4-klassov| %)">Сведения об организаторе бесплатного горячего питания 1-4 классов</a>
+<a class="dropdown__content-link" href="(% url |rezhim-pitaniya-obuchayushchihsyagrafik-1-4-klassov| %)">Режим питания обучающихся(график) 1-4 классов</a>
+<a class="dropdown__content-link" href="(% url |kontaktnaya-informaciya-otvetstvennogo-ot-ou-za-organizaciyu-besplatnogo-goryachego-pitaniya| %)">Контактная информация ответственного от ОУ за организацию бесплатного горячего питания</a>
+<a class="dropdown__content-link" href="(% url |lgotnoe-pitanie| %)">Льготное питание</a>
+<a class="dropdown__content-link" href="(% url |svedeniya-ob-organizatore-lgotnogo-pitaniya| %)">Сведения об организаторе льготного питания</a>
+<a class="dropdown__content-link" href="(% url |rezhim-pitaniya-obuchayushchihsyagrafik-poluchayushchih-lgotnoe-pitanie| %)">Режим питания обучающихся(график), получающих льготное питание</a>
+<a class="dropdown__content-link" href="(% url |kontaktnaya-informaciya-otvetstvennogo-ot-ou-za-organizaciyu-lgotnogo-pitaniya-obuchayushchihsya| %)">Контактная информация ответственного от ОУ за организацию льготного питания обучающихся</a>
+<a class="dropdown__content-link" href="(% url |menyu| %)">Меню</a>
+<a class="dropdown__content-link" href="(% url |roditelskij-kontrol| %)">Родительский контроль</a>
+<a class="dropdown__content-link" href="(% url |goryachie-linii| %)">Горячие линии</a>
+<a class="dropdown__content-link" href="(% url |municipalnyj-poryadok-obespecheniya-pitaniem-obuchayushchihsya| %)">Муниципальный порядок обеспечения питанием обучающихся</a>
+<a class="dropdown__content-link" href="(% url |programma-proizvodstvennogo-kontrolya| %)">Программа производственного контроля</a>
+<a class="dropdown__content-link" href="(% url |forma-obratnoj-svyazi| %)">Форма обратной связи</a>
+<a class="dropdown__content-link" href="(% url |chasto-zadavaemye-voprosy| %)">Часто задаваемые вопросы</a>
+<a class="dropdown__content-link" href="(% url |perechni-yuridicheskih-lic-i-individualnyh-predprinimatelej| %)">Перечни юридических лиц и индивидуальных предпринимателей</a>
+<a class="dropdown__content-link" href="(% url |programma-vospitaniya| %)">Программа воспитания</a>
+<a class="dropdown__content-link" href="(% url |ezhednevnoe-menyu-goryachego-pitaniya-dlya-nachalnyh-klassovfood| %)">Ежедневное меню горячего питания для начальных классов(Food)</a>
+<a class="dropdown__content-link" href="(% url |centr-tochka-rosta| %)">Центр "Точка роста"</a>
+<a class="dropdown__content-link" href="(% url |obshchaya-informaciya-o-centre-tochka-rosta| %)">Общая информация о центре "Точка роста"</a>
+<a class="dropdown__content-link" href="(% url |obrazovatelnye-programmy| %)">Образовательные программы</a>
+<a class="dropdown__content-link" href="(% url |pedagogi| %)">Педагоги</a>
+<a class="dropdown__content-link" href="(% url |materialno-tekhnicheskaya-baza| %)">Материально-техническая база</a>
+<a class="dropdown__content-link" href="(% url |rezhim-zanyatij| %)">Режим занятий</a>
+<a class="dropdown__content-link" href="(% url |meropriyatiya| %)">Мероприятия</a>
+<a class="dropdown__content-link" href="(% url |dopolnitelnaya-informaciya| %)">Дополнительная информация</a>
+<a class="dropdown__content-link" href="(% url |obratnaya-svyazkontakty-socialnye-seti| %)">Обратная связь(контакты, социальные сети)</a>
+<a class="dropdown__content-link" href="(% url |galereya| %)">Галерея</a>
+<a class="dropdown__content-link" href="(% url |gia-2022| %)">ГИА-2022</a>
+<a class="dropdown__content-link" href="(% url |ege-2022| %)">ЕГЭ-2022</a>
+<a class="dropdown__content-link" href="(% url |oge-2022| %)">ОГЭ-2022</a>
+<a class="dropdown__content-link" href="(% url |itogovoe-sochinenieizlozhenie| %)">Итоговое сочинение(изложение)</a>
+<a class="dropdown__content-link" href="(% url |itogovoe-sobesedovanie| %)">Итоговое собеседование</a>
+<a class="dropdown__content-link" href="(% url |gve-2022| %)">ГВЭ-2022</a>
+<a class="dropdown__content-link" href="(% url |novosti-gia| %)">Новости ГИА</a>
+<a class="dropdown__content-link" href="(% url |distancionnoe-obuchenie| %)">Дистанционное обучение</a>
+<a class="dropdown__content-link" href="(% url |normativnye-dokumenty| %)">Нормативные документы</a>
+<a class="dropdown__content-link" href="(% url |instrukciya-po-distancionnomu-obucheniyu| %)">Инструкция по дистанционному обучению</a>
+<a class="dropdown__content-link" href="(% url |upolnomochennyj-po-pravam-rebenka| %)">Уполномоченный по правам ребенка</a>
+<a class="dropdown__content-link" href="(% url |olimpiady| %)">Олимпиады</a>
+<a class="dropdown__content-link" href="(% url |informaciya-dlya-roditelej| %)">Информация для родителей</a>
+<a class="dropdown__content-link" href="(% url |socialnyj-pedagog| %)">Социальный педагог</a>
+<a class="dropdown__content-link" href="(% url |uchitel-logoped| %)">Учитель-логопед</a>
+<a class="dropdown__content-link" href="(% url |pedagog-psiholog| %)">Педагог-психолог</a>
+<a class="dropdown__content-link" href="(% url |vakansii| %)">Вакансии</a>
+<a class="dropdown__content-link" href="(% url |prosvetitelskaya-rabota| %)">Просветительская работа</a>
+<a class="dropdown__content-link" href="(% url |patrioticheskoe-vospitanie| %)">Патриотическое воспитание</a>
+<a class="dropdown__content-link" href="(% url |razgovor-o-pravilnom-pitanii| %)">Разговор о правильном питании</a>
+<a class="dropdown__content-link" href="(% url |pdd| %)">ПДД</a>
+<a class="dropdown__content-link" href="(% url |uroki-zdorovya| %)">Уроки здоровья</a>
+<a class="dropdown__content-link" href="(% url |mezhdunarodnyj-den-rodnogo-yazyka| %)">Международный день родного языка</a>
+<a class="dropdown__content-link" href="(% url |vospitatelnaya-rabota| %)">Воспитательная работа</a>
+<a class="dropdown__content-link" href="(% url |profilakticheskaya-rabota| %)">Профилактическая работа</a>
+<a class="dropdown__content-link" href="(% url |shkolnoe-obedinenie| %)">Школьное объединение</a>
+<a class="dropdown__content-link" href="(% url |yuid| %)">ЮИД</a>
+<a class="dropdown__content-link" href="(% url |dyup| %)">ДЮП</a>
+<a class="dropdown__content-link" href="(% url |svedeniya-o-dohodah| %)">Сведения о доходах</a>
+<a class="dropdown__content-link" href="(% url |ohrana-zhizni-i-zdorovya| %)">Охрана жизни и здоровья</a>
+<a class="dropdown__content-link" href="(% url |obratnaya-svyaz| %)">Обратная связь</a>
+<a class="dropdown__content-link" href="(% url |protivodejstvie-korrupcii| %)">Противодействие коррупции</a>
+<a class="dropdown__content-link" href="(% url |bezopasnost| %)">Безопасность</a>
+<a class="dropdown__content-link" href="(% url |bezopasnost-v-letnij-period| %)">Безопасность в летний период</a>
+<a class="dropdown__content-link" href="(% url |bezopasnost-dorozhnogo-dvizheniya| %)">Безопасность дорожного движения</a>
+<a class="dropdown__content-link" href="(% url |bezopasnye-perevozki-shkolnikov| %)">Безопасные перевозки школьников</a>
+<a class="dropdown__content-link" href="(% url |deyatelnost-otryada-yuid| %)">Деятельность отряда ЮИД</a>
+<a class="dropdown__content-link" href="(% url |informacionnaya-bezopasnost-v-seti| %)">Информационная безопасность в сети</a>
+<a class="dropdown__content-link" href="(% url |internet-kampaniya-bez-vas-ne-poluchitsya| %)">Интернет-кампания "Без вас не получится"</a>
+<a class="dropdown__content-link" href="(% url |ostorozhno-moshenniki| %)">ОСТОРОЖНО-МОШЕННИКИ</a>
+<a class="dropdown__content-link" href="(% url |antiterroristicheskaya-bezopasnost| %)">Антитеррористическая безопасность</a>
+<a class="dropdown__content-link" href="(% url |bezopasnyj-internet| %)">Безопасный интернет</a>
+<a class="dropdown__content-link" href="(% url |nezavisimaya-ocenka-kachestva-obrazovaniya| %)">Независимая оценка качества образования</a>
+<a class="dropdown__content-link" href="(% url |upravlencheskie-mekhanizmy-ocenki-kachestva-obrazovaniya| %)">Управленческие механизмы оценки качества образования</a>
+<a class="dropdown__content-link" href="(% url |sistema-ocenki-kachestva-podgotovki-obuchayushchihsya| %)">Система оценки качества подготовки обучающихся</a>
+<a class="dropdown__content-link" href="(% url |sistema-obespecheniya-obektivnosti-procedur-oko| %)">Система обеспечения объективности процедур ОКО</a>
+<a class="dropdown__content-link" href="(% url |sistema-monitoringa-kachestva-povysheniya-kvalifikacii-pedagogov| %)">Система мониторинга качества повышения квалификации педагогов</a>
+<a class="dropdown__content-link" href="(% url |sistema-metodicheskoj-raboty| %)">Система методической работы</a>
+<a class="dropdown__content-link" href="(% url |sistema-razvitiya-talanta| %)">Система развития таланта</a>
+<a class="dropdown__content-link" href="(% url |sistema-proforientacii| %)">Система профориентации</a>
+<a class="dropdown__content-link" href="(% url |obrazovanie-detej-s-ovz-i-invalidnostyu| %)">Образование детей с ОВЗ и инвалидностью</a>
+<a class="dropdown__content-link" href="(% url |distancionnoe-obuchenie-detej-s-ovz| %)">Дистанционное обучение детей с ОВЗ</a>
+<a class="dropdown__content-link" href="(% url |sozdanie-specialnyh-uslovij-dlya-obucheniya-detej-c-ovz-i-invalidnostyu| %)">Создание специальных условий для обучения детей c ОВЗ и инвалидностью</a>
+<a class="dropdown__content-link" href="(% url |specialnye-obrazovatelnye-programmy| %)">Специальные образовательные программы</a>
+<a class="dropdown__content-link" href="(% url |dopolnitelnoe-obrazovanie| %)">Дополнительное образование</a>
+<a class="dropdown__content-link" href="(% url |organizaciya-nachala-2020-2021-uchebnogo-goda| %)">Организация начала 2020-2021 учебного года</a>
+<a class="dropdown__content-link" href="(% url |rekomendacii| %)">Рекомендации</a>
+<a class="dropdown__content-link" href="(% url |vyplaty-za-klassnoe-rukovodstvo| %)">Выплаты за классное руководство</a>
+<a class="dropdown__content-link" href="(% url |nastavnichestvo| %)">Наставничество</a>
+<a class="dropdown__content-link" href="(% url |shkolnaya-biblioteka| %)">Школьная библиотека</a>
+<a class="dropdown__content-link" href="(% url |letnij-ozdorovitelnyj-lager| %)">Летний оздоровительный лагерь</a>
+<a class="dropdown__content-link" href="(% url |shsk| %)">ШСК</a>
+<a class="dropdown__content-link" href="(% url |funkcionalnaya-gramotnost| %)">Функциональная грамотность</a>
+<a class="dropdown__content-link" href="(% url |informacionnaya-bezopasnost| %)">Информационная безопасность</a>
+<a class="dropdown__content-link" href="(% url |dokumenty-shkoly| %)">Документы школы</a>
+<a class="dropdown__content-link" href="(% url |metodicheskie-rekomendacii-pedagogam| %)">Методические рекомендации педагогам</a>
+<a class="dropdown__content-link" href="(% url |v-pomoshch-roditelyam| %)">В помощь родителям</a>
+<a class="dropdown__content-link" href="(% url |dlya-vas-rebyata| %)">Для вас, ребята</a>
+<a class="dropdown__content-link" href="(% url |vsoko| %)">ВСОКО</a>
+<a class="dropdown__content-link" href="(% url |fgos-2021| %)">ФГОС-2021</a>
+<a class="dropdown__content-link" href="(% url |orlyata-rossii| %)">Орлята России</a>
+<a class="dropdown__content-link" href="(% url |teatralnaya-studiya| %)">Театральная студия</a>

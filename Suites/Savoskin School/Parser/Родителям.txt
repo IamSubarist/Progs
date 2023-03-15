@@ -1,0 +1,32 @@
+<a class="dropdown__content-link" href="(% url |bezopasnost| %)">Безопасность</a>
+    <a class="dropdown__content-link" href="(% url |bezopasnost-v-letnij-period| %)">Безопасность в летний период</a>
+    <a class="dropdown__content-link" href="(% url |bezopasnost-dorozhnogo-dvizheniya| %)">Безопасность дорожного движения</a>
+        <a class="dropdown__content-link" href="(% url |bezopasnye-perevozki-shkolnikov| %)">Безопасные перевозки школьников</a>
+        <a class="dropdown__content-link" href="(% url |deyatelnost-otryada-yuid| %)">Деятельность отряда ЮИД</a>
+    <a class="dropdown__content-link" href="(% url |informacionnaya-bezopasnost-v-seti| %)">Информационная безопасность в сети</a>
+    <a class="dropdown__content-link" href="(% url |internet-kampaniya-bez-vas-ne-poluchitsya| %)">Интернет-кампания "Без вас не получится"</a>
+    <a class="dropdown__content-link" href="(% url |ostorozhno-moshenniki| %)">ОСТОРОЖНО-МОШЕННИКИ</a>
+    <a class="dropdown__content-link" href="(% url |antiterroristicheskaya-bezopasnost| %)">Антитеррористическая безопасность</a>
+    <a class="dropdown__content-link" href="(% url |bezopasnyj-internet| %)">Безопасный интернет</a>
+
+<a class="dropdown__content-link" href="(% url |goryachee-pitanie| %)">ГОРЯЧЕЕ ПИТАНИЕ</a>
+    <a class="dropdown__content-link" href="(% url |besplatnoe-goryachee-pitanie-1-4-klassov| %)">Бесплатное горячее питание 1-4 классов</a>
+        <a class="dropdown__content-link" href="(% url |svedeniya-ob-organizatore-besplatnogo-goryachego-pitaniya-1-4-klassov| %)">Сведения об организаторе бесплатного горячего питания 1-4 классов</a>
+        <a class="dropdown__content-link" href="(% url |rezhim-pitaniya-obuchayushchihsyagrafik-1-4-klassov| %)">Режим питания обучающихся(график) 1-4 классов</a>
+        <a class="dropdown__content-link" href="(% url |kontaktnaya-informaciya-otvetstvennogo-ot-ou-za-organizaciyu-besplatnogo-goryachego-pitaniya| %)">Контактная информация ответственного от ОУ за организацию бесплатного горячего питания</a>
+    <a class="dropdown__content-link" href="(% url |lgotnoe-pitanie| %)">Льготное питание</a>
+        <a class="dropdown__content-link" href="(% url |svedeniya-ob-organizatore-lgotnogo-pitaniya| %)">Сведения об организаторе льготного питания</a>
+        <a class="dropdown__content-link" href="(% url |rezhim-pitaniya-obuchayushchihsyagrafik-poluchayushchih-lgotnoe-pitanie| %)">Режим питания обучающихся(график), получающих льготное питание</a>
+        <a class="dropdown__content-link" href="(% url |kontaktnaya-informaciya-otvetstvennogo-ot-ou-za-organizaciyu-lgotnogo-pitaniya-obuchayushchihsya| %)">Контактная информация ответственного от ОУ за организацию льготного питания обучающихся</a>
+    <a class="dropdown__content-link" href="(% url |menyu| %)">Меню</a>
+        <a class="dropdown__content-link" href="(% url |besplatnoe-goryachee-pitanie-1-4-klassov| %)">Бесплатное горячее питание 1-4 классов</a>        
+        Льготное питание
+    <a class="dropdown__content-link" href="(% url |roditelskij-kontrol| %)">Родительский контроль</a>
+    <a class="dropdown__content-link" href="(% url |goryachie-linii| %)">Горячие линии</a>
+    <a class="dropdown__content-link" href="(% url |municipalnyj-poryadok-obespecheniya-pitaniem-obuchayushchihsya| %)">Муниципальный порядок обеспечения питанием обучающихся</a>
+    <a class="dropdown__content-link" href="(% url |forma-obratnoj-svyazi| %)">Форма обратной связи</a>
+    Часто задаваемые вопросы
+    <a class="dropdown__content-link" href="(% url |perechni-yuridicheskih-lic-i-individualnyh-predprinimatelej| %)">Перечни юридических лиц и индивидуальных предпринимателей</a>
+
+<a class="dropdown__content-link" href="(% url |ezhednevnoe-menyu-goryachego-pitaniya-dlya-nachalnyh-klassovfood| %)">Ежедневное меню горячего питания для начальных классов(Food)</a>
+<a class="dropdown__content-link" href="(% url |informaciya-dlya-roditelej| %)">Информация для родителей</a>

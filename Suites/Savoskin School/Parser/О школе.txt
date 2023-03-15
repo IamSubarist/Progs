@@ -1,0 +1,37 @@
+<a class="dropdown__content-link" href="(% url |svedeniya-ob-obrazovatelnoj-organizacii| %)">Сведения об образовательной организации</a>
+    <a class="dropdown__content-link" href="(% url |osnovnye-svedeniya| %)">Основные сведения</a>
+    <a class="dropdown__content-link" href="(% url |struktura-i-organy-upravleniya-oo| %)">Структура и органы управления ОО</a>
+    <a class="dropdown__content-link" href="(% url |dokumenty| %)">Документы</a>
+    <a class="dropdown__content-link" href="(% url |obrazovanie| %)">Образование</a>
+        <a class="dropdown__content-link" href="(% url |metodicheskaya-rabota| %)">Методическая работа</a>
+        <a class="dropdown__content-link" href="(% url |vpr| %)">ВПР</a>
+        <a class="dropdown__content-link" href="(% url |inklyuzivnoe-obrazovanie| %)">Инклюзивное образование</a>
+    <a class="dropdown__content-link" href="(% url |rukovodstvo-i-pedagogicheskij-sostav| %)">Руководство и педагогический состав</a>
+    <a class="dropdown__content-link" href="(% url |organizaciya-pitaniya-v-obrazovatelnoj-organizacii| %)">Организация питания в образовательной организации</a>
+    <a class="dropdown__content-link" href="(% url |obrazovatelnye-standarty| %)">Образовательные стандарты</a>
+    <a class="dropdown__content-link" href="(% url |materialno-tekhnicheskoe-obespechenie| %)">Материально-техническое обеспечение</a>
+    <a class="dropdown__content-link" href="(% url |finansovo-hozyajstvennaya-deyatelnost| %)">Финансово-хозяйственная деятельность</a>
+    <a class="dropdown__content-link" href="(% url |platnye-obrazovatelnye-uslugi| %)">Платные образовательные услуги</a>
+    <a class="dropdown__content-link" href="(% url |stipendii-i-inye-vidy-materialnoj-podderzhki| %)">Стипендии и иные виды материальной поддержки</a>
+    <a class="dropdown__content-link" href="(% url |vakantnye-mesta-dlya-priema| %)">Вакантные места для приема</a>
+        <a class="dropdown__content-link" href="(% url |priyom-v-1-klass| %)">Приём в 1 класс</a>
+    <a class="dropdown__content-link" href="(% url |o-celevom-obuchenii| %)">О целевом обучении</a>
+    <a class="dropdown__content-link" href="(% url |dostupnaya-sreda| %)">Доступная среда</a>
+    <a class="dropdown__content-link" href="(% url |mezhdunarodnoe-sotrudnichestvo| %)">Международное сотрудничество</a>
+
+<a class="dropdown__content-link" href="(% url |vakansii| %)">Вакансии</a>
+<a class="dropdown__content-link" href="(% url |svedeniya-o-dohodah| %)">Сведения о доходах</a>
+<a class="dropdown__content-link" href="(% url |obrazovanie-detej-s-ovz-i-invalidnostyu| %)">Образование детей с ОВЗ и инвалидностью</a>
+    <a class="dropdown__content-link" href="(% url |distancionnoe-obuchenie-detej-s-ovz| %)">Дистанционное обучение детей с ОВЗ</a>
+    <a class="dropdown__content-link" href="(% url |sozdanie-specialnyh-uslovij-dlya-obucheniya-detej-c-ovz-i-invalidnostyu| %)">Создание специальных условий для обучения детей c ОВЗ и инвалидностью</a>
+        <a class="dropdown__content-link" href="(% url |specialnye-obrazovatelnye-programmy| %)">Специальные образовательные программы</a>
+        <a class="dropdown__content-link" href="(% url |materialno-tekhnicheskoe-obespechenie| %)">Материально-техническое обеспечение</a>        
+
+<a class="dropdown__content-link" href="(% url |ohrana-zhizni-i-zdorovya| %)">Охрана жизни и здоровья</a>
+<a class="dropdown__content-link" href="(% url |shkolnaya-biblioteka| %)">Школьная библиотека</a>
+<a class="dropdown__content-link" href="(% url |letnij-ozdorovitelnyj-lager| %)">Летний оздоровительный лагерь</a>
+<a class="dropdown__content-link" href="(% url |shsk| %)">ШСК</a>
+<a class="dropdown__content-link" href="(% url |chasto-zadavaemye-voprosy| %)">Часто задаваемые вопросы</a>
+<a class="dropdown__content-link" href="(% url |obratnaya-svyaz| %)">Обратная связь</a>
+<a class="dropdown__content-link" href="(% url |protivodejstvie-korrupcii| %)">Противодействие коррупции</a>
+<a class="dropdown__content-link" href="(% url |upolnomochennyj-po-pravam-rebenka| %)">Уполномоченный по правам ребенка</a>

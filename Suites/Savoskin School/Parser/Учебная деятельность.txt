@@ -1,0 +1,75 @@
+<a class="dropdown__content-link" href="(% url |centr-tochka-rosta| %)">Центр "Точка роста"</a>
+    <a class="dropdown__content-link" href="(% url |obshchaya-informaciya-o-centre-tochka-rosta| %)">Общая информация о центре "Точка роста"</a>
+    <a class="dropdown__content-link" href="(% url |dokumenty1| %)">Документы</a>
+    <a class="dropdown__content-link" href="(% url |obrazovatelnye-programmy| %)">Образовательные программы</a>
+    <a class="dropdown__content-link" href="(% url |pedagogi| %)">Педагоги</a>
+    <a class="dropdown__content-link" href="(% url |materialno-tekhnicheskaya-baza| %)">Материально-техническая база</a>
+    <a class="dropdown__content-link" href="(% url |rezhim-zanyatij| %)">Режим занятий</a>
+    <a class="dropdown__content-link" href="(% url |meropriyatiya| %)">Мероприятия</a>
+    <a class="dropdown__content-link" href="(% url |dopolnitelnaya-informaciya| %)">Дополнительная информация</a>
+    <a class="dropdown__content-link" href="(% url |obratnaya-svyazkontakty-socialnye-seti| %)">Обратная связь(контакты, социальные сети)</a>
+    <a class="dropdown__content-link" href="(% url |galereya| %)">Галерея</a>
+
+<a class="dropdown__content-link" href="(% url |gia-2022| %)">ГИА-2022</a>
+    <a class="dropdown__content-link" href="(% url |ege-2022| %)">ЕГЭ-2022</a>
+    <a class="dropdown__content-link" href="(% url |oge-2022| %)">ОГЭ-2022</a>
+    <a class="dropdown__content-link" href="(% url |itogovoe-sochinenieizlozhenie| %)">Итоговое сочинение(изложение)</a>
+    <a class="dropdown__content-link" href="(% url |itogovoe-sobesedovanie| %)">Итоговое собеседование</a>
+    <a class="dropdown__content-link" href="(% url |gve-2022| %)">ГВЭ-2022</a>
+    <a class="dropdown__content-link" href="(% url |novosti-gia| %)">Новости ГИА</a>
+
+<a class="dropdown__content-link" href="(% url |distancionnoe-obuchenie| %)">Дистанционное обучение</a>
+    <a class="dropdown__content-link" href="(% url |normativnye-dokumenty| %)">Нормативные документы</a>
+    <a class="dropdown__content-link" href="(% url |instrukciya-po-distancionnomu-obucheniyu| %)">Инструкция по дистанционному обучению</a>
+
+<a class="dropdown__content-link" href="(% url |olimpiady| %)">Олимпиады</a>
+<a class="dropdown__content-link" href="(% url |socialnyj-pedagog| %)">Социальный педагог</a>
+<a class="dropdown__content-link" href="(% url |uchitel-logoped| %)">Учитель-логопед</a>
+<a class="dropdown__content-link" href="(% url |pedagog-psiholog| %)">Педагог-психолог</a>
+
+<a class="dropdown__content-link" href="(% url |prosvetitelskaya-rabota| %)">Просветительская работа</a>
+    <a class="dropdown__content-link" href="(% url |patrioticheskoe-vospitanie| %)">Патриотическое воспитание</a>
+    <a class="dropdown__content-link" href="(% url |razgovor-o-pravilnom-pitanii| %)">Разговор о правильном питании</a>
+    <a class="dropdown__content-link" href="(% url |pdd| %)">ПДД</a>
+    <a class="dropdown__content-link" href="(% url |uroki-zdorovya| %)">Уроки здоровья</a>
+    <a class="dropdown__content-link" href="(% url |mezhdunarodnyj-den-rodnogo-yazyka| %)">Международный день родного языка</a>
+
+<a class="dropdown__content-link" href="(% url |vospitatelnaya-rabota| %)">Воспитательная работа</a>
+    <a class="dropdown__content-link" href="(% url |profilakticheskaya-rabota| %)">Профилактическая работа</a>
+    <a class="dropdown__content-link" href="(% url |shkolnoe-obedinenie| %)">Школьное объединение</a>
+        <a class="dropdown__content-link" href="(% url |yuid| %)">ЮИД</a>
+        <a class="dropdown__content-link" href="(% url |dyup| %)">ДЮП</a>
+
+<a class="dropdown__content-link" href="(% url |nezavisimaya-ocenka-kachestva-obrazovaniya| %)">Независимая оценка качества образования</a>
+
+<a class="dropdown__content-link" href="(% url |upravlencheskie-mekhanizmy-ocenki-kachestva-obrazovaniya| %)">Управленческие механизмы оценки качества образования</a>
+    <a class="dropdown__content-link" href="(% url |sistema-ocenki-kachestva-podgotovki-obuchayushchihsya| %)">Система оценки качества подготовки обучающихся</a>
+    <a class="dropdown__content-link" href="(% url |sistema-obespecheniya-obektivnosti-procedur-oko| %)">Система обеспечения объективности процедур ОКО</a>
+    <a class="dropdown__content-link" href="(% url |sistema-monitoringa-kachestva-povysheniya-kvalifikacii-pedagogov| %)">Система мониторинга качества повышения квалификации педагогов</a>
+    <a class="dropdown__content-link" href="(% url |sistema-metodicheskoj-raboty| %)">Система методической работы</a>
+    <a class="dropdown__content-link" href="(% url |sistema-razvitiya-talanta| %)">Система развития таланта</a>
+    <a class="dropdown__content-link" href="(% url |sistema-proforientacii| %)">Система профориентации</a>
+
+<a class="dropdown__content-link" href="(% url |dopolnitelnoe-obrazovanie| %)">Дополнительное образование</a>
+
+<a class="dropdown__content-link" href="(% url |organizaciya-nachala-2020-2021-uchebnogo-goda| %)">Организация начала 2020-2021 учебного года</a>
+    <a class="dropdown__content-link" href="(% url |normativnye-dokumenty| %)">Нормативные документы</a>
+    <a class="dropdown__content-link" href="(% url |rekomendacii| %)">Рекомендации</a>
+
+<a class="dropdown__content-link" href="(% url |vyplaty-za-klassnoe-rukovodstvo| %)">Выплаты за классное руководство</a>
+<a class="dropdown__content-link" href="(% url |nastavnichestvo| %)">Наставничество</a>
+<a class="dropdown__content-link" href="(% url |funkcionalnaya-gramotnost| %)">Функциональная грамотность</a>
+
+<a class="dropdown__content-link" href="(% url |informacionnaya-bezopasnost| %)">Информационная безопасность</a>
+    <a class="dropdown__content-link" href="(% url |normativnye-dokumenty1| %)">Нормативные документы</a>
+    <a class="dropdown__content-link" href="(% url |dokumenty-shkoly| %)">Документы школы</a>
+    <a class="dropdown__content-link" href="(% url |metodicheskie-rekomendacii-pedagogam| %)">Методические рекомендации педагогам</a>
+    <a class="dropdown__content-link" href="(% url |v-pomoshch-roditelyam| %)">В помощь родителям</a>
+    <a class="dropdown__content-link" href="(% url |dlya-vas-rebyata| %)">Для вас, ребята</a>
+
+<a class="dropdown__content-link" href="(% url |vsoko| %)">ВСОКО</a>
+<a class="dropdown__content-link" href="(% url |fgos-2021| %)">ФГОС-2021</a>
+<a class="dropdown__content-link" href="(% url |programma-proizvodstvennogo-kontrolya| %)">Программа производственного контроля</a>
+<a class="dropdown__content-link" href="(% url |programma-vospitaniya| %)">Программа воспитания</a>
+<a class="dropdown__content-link" href="(% url |orlyata-rossii| %)">Орлята России</a>
+<a class="dropdown__content-link" href="(% url |teatralnaya-studiya| %)">Театральная студия</a>
